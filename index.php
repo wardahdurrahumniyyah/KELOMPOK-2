@@ -23,6 +23,26 @@
       .bg-nontrans{
         background-color: rgba(255,255,255,255) !important;
       }
+      
+      /*CAROUSEL*/
+      .myCaroulsel{
+        height: 100vh;
+      }
+      .carousel-item img {
+        height: 100vh;
+      }
+       /* SESSION */
+      section{
+        padding-top: 50px;
+        padding-bottom: 50px;
+      }
+      #home{
+        padding-top: 0px;
+        padding-bottom: 0px;
+      }
+      #about, #gallery, #contact{
+        height: 700px;
+      }
 
     </style>
   </head>
