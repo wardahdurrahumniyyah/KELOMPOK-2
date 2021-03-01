@@ -425,4 +425,24 @@
     color: #ffffff;
   }
 
+/*---------------------------------------
+      ABOUT              
+  -----------------------------------------*/
+
+  #about {
+    padding-bottom: 0;
+  }
+
+  .about-info {
+    padding: 0 6em 5em 0;
+  }
+
+  .about-info .section-title {
+    padding-bottom: 20px;
+  }
+
+  .about-image {
+    position: absolute;
+  }
+
 
