@@ -9,6 +9,8 @@
     <link rel="stylesheet" href="css/font-awesome.min.css">
     <link rel="stylesheet" href="css/animate.css">
     <link rel="stylesheet" href="css/owl.carousel.css">
+    <link rel="stylesheet" href="css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="css/magnific-popup.css">
 
     <!-- MAIN CSS -->
     <link rel="stylesheet" href="css/style.css">
@@ -340,13 +342,54 @@
           </div>
      </section>
 
-     
+     <!-- TESTIMONIAL -->
+     <section id="testimonial" data-stellar-background-ratio="0.5">
+          <div class="overlay"></div>
+          <div class="container">
+          <div class="row">
+               <div class="col-md-12 col-sm-12">
+                    <div  class="section-title wow fadeInUp" data-wow-delay="0.1s">
+                         <h2>Testimoni</h2>
+                    </div>
+               </div>
+
+               <div class="col-md-offset-2 col-md-8 col-sm-12">
+                    <div class="owl-carousel owl-theme">
+                         <div class="item">
+                               <p>Makanannya sangat enak, buah dan sayurannya segar, saya sangat menyukainya !!</p>
+                               <div class="tst-author">
+                                    <h4>Agnes Minisa</h4>
+                                    <span>Salad</span>
+                               </div>
+                         </div>
+
+                         <div class="item">
+                              <p>Tekstus roti nya empuk sekali, daging nya fresh dan lezat sekali, saus dan kejunya lumer. Thank you.</p>
+                              <div class="tst-author">
+                                   <h4>Stepen Jamal</h4>
+                                   <span>Pizza chese beef</span>
+                              </div>
+                         </div>
+
+                         <div class="item">
+                              <p>I love it this food. Kentang nya crunchy dan daging and saus nya enak sekali perpaduan yang sangat luar biasa.</p>
+                              <div class="tst-author">
+                                   <h4>Jessie</h4>
+                                   <span>Deli Burger</span>
+                              </div>
+                         </div>
+                         
+                    </div>
+
+               </div>
                
+          </div>
+          </div>
+     </section>
 
 
 
-
-
+          
  
 
      <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>  
