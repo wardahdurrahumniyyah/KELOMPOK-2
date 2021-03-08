@@ -387,6 +387,20 @@
           </div>
      </section>
 
+     <!-- CONTACT -->
+     <section id="contact" data-stellar-background-ratio="0.5">
+          <div class="container">
+               <div class="row">
+                    <div class="wow fadeInUp col-md-6 col-sm-12" data-wow-delay="0.4s">
+                         <div id="google-map">
+                              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3961.5879037260024!2d107.1449935!3d-6.8198704!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e6852ff07e8c4e3%3A0x3284a65cac1d4a50!2sSabore%20Kitchen!5e0!3m2!1sid!2sid!4v1614588090733!5m2!1sid!2sid" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                         </div>
+                    </div>    
+
+                    
+
+                         
+
 
 
           
