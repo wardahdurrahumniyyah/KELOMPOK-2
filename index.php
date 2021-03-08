@@ -395,7 +395,37 @@
                          <div id="google-map">
                               <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3961.5879037260024!2d107.1449935!3d-6.8198704!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e6852ff07e8c4e3%3A0x3284a65cac1d4a50!2sSabore%20Kitchen!5e0!3m2!1sid!2sid!4v1614588090733!5m2!1sid!2sid" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
                          </div>
-                    </div>    
+                    </div>
+
+                    <div class="col-md-6 col-sm-12">
+                         <div class="col-md-12 col-sm-12">
+                              <div class="section-title wow fadeInUp" data-wow-delay="0.1s">
+                                   <h2>Contact Us</h2>
+                              </div>
+                         </div>
+
+                         <!-- CONTACT FORM -->
+                         <form action="#" method="post" class="wow fadeInUp" id="contact-form" role="form" data-wow-delay="0.8s">
+                              <h6 class="text-success">Your message has been sent successfully.</h6>
+                              <h6 class="text-danger">E-mail must be valid and message must be longer than 1 character.</h6>
+                              <div class="col-md-6 col-sm-6">
+                                   <input type="text" class="form-control" id="cf-name" name="name" placeholder="Full name">
+                              </div>
+                              <div class="col-md-6 col-sm-6">
+                                   <input type="email" class="form-control" id="cf-email" name="email" placeholder="Email address">
+                              </div>
+                              <div class="col-md-12 col-sm-12">
+                                   <input type="text" class="form-control" id="cf-subject" name="subject" placeholder="Subject">
+                                   <textarea class="form-control" rows="6" id="cf-message" name="message" placeholder="Tell me about your needs!!"></textarea>
+                                   <button type="submit" class="form-control" id="cf-submit" name="submit">Send Message</button>
+                              </div>
+                         </form>
+                    </div>
+
+               </div>
+          </div>
+     </section>
+
 
                     
 
