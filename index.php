@@ -145,7 +145,7 @@
 
                     <div class="col-md-12 col-sm-12">
                          <div class="section-title wow fadeInUp" data-wow-delay="0.1s">
-                              <h2>Meet our chefs</h2>
+                              <h2>Meet our chef</h2>
                               <h4>They are nice &amp; friendly</h4>
                          </div>
                     </div>
@@ -218,7 +218,7 @@
 
                     <div class="col-md-12 col-sm-12">
                          <div class="section-title wow fadeInUp" data-wow-delay="0.1s">
-                              <h2>Our Menus</h2>
+                              <h2>Our Menu</h2>
                               <h4>Tea Time &amp; Dining</h4>
                          </div>
                     </div>
@@ -243,6 +243,7 @@
                     </div>
 
                     <div class="col-md-4 col-sm-6">
+
                          <!-- MENU THUMB -->
                          <div class="menu-thumb">
                               <a href="images/menu-image2.jpg" class="image-popup" title="Self-made Salad">
@@ -425,6 +426,8 @@
                </div>
           </div>
      </section>
+
+
     <!-- FOOTER -->
      <footer id="footer" data-stellar-background-ratio="0.5">
           <div class="container">
@@ -492,59 +495,7 @@
                </div>
           </div>
      </footer>
-
-     <!-- FOOTER -->
-     <footer id="footer" data-stellar-background-ratio="0.5">
-          <div class="container">
-               <div class="row">
-
-                    <div class="col-md-3 col-sm-8">
-                         <div class="footer-info">
-                              <div class="section-title">
-                                   <h2 class="wow fadeInUp" data-wow-delay="0.2s">Find us</h2>
-                              </div>
-                              <address class="wow fadeInUp" data-wow-delay="0.4s">
-                                   <p>Warujajar No.31,<br> Solokpandan<br>Cianjur</p>
-                              </address>
-                         </div>
-                    </div>
-
-                    <div class="col-md-3 col-sm-8">
-                         <div class="footer-info">
-                              <div class="section-title">
-                                   <h2 class="wow fadeInUp" data-wow-delay="0.2s">Reservation</h2>
-                              </div>
-                              <address class="wow fadeInUp" data-wow-delay="0.4s">
-                                   <p>087743506008</p>
-                                   <p><a href="email:info@gmail.com">dumnnycafe@gmail.com</a></p>
-                                   <p>Instagram: @dumnyycafe </p>
-                              </address>
-                         </div>
-                    </div>
-
-                    <div class="col-md-4 col-sm-8">
-                         <div class="footer-info footer-open-hour">
-                              <div class="section-title">
-                                   <h2 class="wow fadeInUp" data-wow-delay="0.2s">Open Hours</h2>
-                              </div>
-                              <div class="wow fadeInUp" data-wow-delay="0.4s">
-                                   <p>Monday: Closed</p>
-                                   <div>
-                                        <strong>Tuesday to Friday</strong>
-                                        <p>7:00 AM - 9:00 PM</p>
-                                   </div>
-                                   <div>
-                                        <strong>Saturday - Sunday</strong>
-                                        <p>11:00 AM - 10:00 PM</p>
-                                   </div>
-                              </div>
-                         </div>
-                    </div>
-
-
-                    
-
-                     
+                 
 
      <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>  
      <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js" integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0" crossorigin="anonymous"></script>

@@ -834,83 +834,155 @@
     color: #ffffff;
   }
 
-
+  
   /*---------------------------------------
-     FOOTER              
+     RESPONSIVE STYLES              
   -----------------------------------------*/
 
-  footer {
-    border-top: 1px solid rgba(0,0,0,0.05);
-    padding: 120px 0;
-    padding-bottom: 80px;
-  }
-
-  footer .section-title {
-    padding-bottom: 10px;
-  }
-
-  footer h2 {
-    font-size: 20px;
-  }
-
-  footer a,
-  footer p {
-    color: #909090;
-  }
-
-  footer strong {
-    color: #d9d9d9;
-  }
-
-  footer address p {
-    margin-bottom: 0;
-  }
-
-  .footer-info,
-  footer .social-icon {
-    margin-top: 20px;
-  }
-
-  .footer-open-hour {
-    background: #ce3232;
-    background: url('../images/footer.jpg') center center no-repeat;
-    background-size: cover;
-    border-radius: 20px;
-    margin-top: 0;
-    padding: 40px 0 40px 80px;
-    overflow: hidden;
-    position: relative;
-    z-index: 22;
-    right: 20px;
-    bottom: 20px;
-  }
-
-  .footer-open-hour::after {
-    background: rgba(29,29,29,0.85);
-    content: "";
-    position: absolute;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    z-index: -2222;
-  }
-
-  .footer-open-hour h2 {
-    color: #ffffff;
-  }
-
-  .footer-open-hour p {
-    color: #d9d9d9;
-  }
-
-  .footer-open-hour strong {
-    color: #f9f9f9;
+  @media screen and (max-width: 1170px) {
+    .custom-navbar .navbar-nav.navbar-nav-first {
+      margin-left: inherit;
+    }
   }
 
 
+  @media only screen and (max-width: 1200px) {
+    .about-info {
+      padding-right: 0;
+    }
+
+    .about-image {
+      position: relative;
+    }
+  }
+
+
+  @media only screen and (max-width: 992px) {
+    section {
+      padding: 60px 0;
+    }
+
+    .custom-navbar .section-btn {
+      margin-left: 1em;
+    }
+
+    .slider .item {
+      background-position: center;
+    }
+
+    .about-info {
+      padding: 0;
+    }
+
+    .team-info {
+      margin-bottom: 50px;
+    }
+
+    #menu .menu-thumb {
+      width: 103%;
+    }
+
+    #testimonial {
+      background-position: 50% 0 !important;
+    }
+
+    #google-map,
+    .footer-info {
+      margin-bottom: 50px;
+    }
+  }
+
+
+  @media only screen and (min-width: 768px) and (max-width: 991px) {
+    .custom-navbar .nav li a {
+      padding-right: 10px;
+      padding-left: 10px;
+    }
+  }
+
+  @media only screen and (max-width: 767px) {
+    h1 {
+      font-size: 2.5em;
+    }
+
+    h1,h2,h3 {
+      line-height: normal;
+    }
+
+    .custom-navbar {
+      background: #ffffff;
+      -webkit-box-shadow: 0 1px 30px rgba(0, 0, 0, 0.1);
+      -moz-box-shadow: 0 1px 30px rgba(0, 0, 0, 0.1);
+      box-shadow: 0 1px 30px rgba(0, 0, 0, 0.1);
+      padding: 10px 0;
+      text-align: center;
+    }
+
+    .custom-navbar .nav li a {
+      line-height: normal;
+      padding: 10px;
+    }
+
+    .custom-navbar .navbar-brand,
+    .top-nav-collapse .navbar-brand {
+      color: #252525;
+      font-weight: 600;
+    }
+
+    .custom-navbar .nav li a,
+    .top-nav-collapse .nav li a {
+      color: #575757;
+    }
+
+    .custom-navbar .navbar-nav.navbar-right li {
+      display: inline-block;
+    }
+
+    .custom-navbar .navbar-nav.navbar-right .section-btn {
+      display: block !important;
+      width: 50%;
+      margin: 10px auto 10px auto;
+      padding: 10px;
+    }
+
+    .custom-navbar .section-btn a {
+      color: #ffffff !important;
+    }
+
+    .slider .caption {
+      padding: 0;
+    }
+
+    .menu-thumb .menu-info {
+      top: 80%;
+    }
+
+    footer {
+      padding: 60px 0;
+      padding-bottom: 60px;
+    }
+
+    .footer-open-hour {
+      right: 0;
+      bottom: 0;
+      margin-top: 30px;
+    }
+  }
+
+
+  @media only screen and (max-width: 580px) {
+    h1 {
+      font-size: 2.1em;
+    }
+
+    h2 {
+      font-size: 1.8em;
+    }
+
+    .menu-thumb .menu-info {
+      top: 60%;
+    }
+  }
 
 
 
