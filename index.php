@@ -152,14 +152,10 @@
 
                     <div class="col-md-4 col-sm-4">
                          <div class="team-thumb wow fadeInUp" data-wow-delay="0.2s">
-                              <img src="images/team-image1.jpg" class="img-responsive" alt="">
+                              <img src="images/team-image1.jpeg" class="img-responsive" alt="">
                                    <div class="team-hover">
                                         <div class="team-item">
                                              <h4>Hallo</h4> 
-                                             <ul class="social-icon">
-                                                  <li><a href="#" class="fa fa-instagram"></a></li>
-                                                  <li><a href="#" class="fa fa-envelope-o"></a></li>
-                                             </ul>
                                         </div>
                                    </div>
                          </div>
@@ -171,14 +167,10 @@
 
                     <div class="col-md-4 col-sm-4">
                          <div class="team-thumb wow fadeInUp" data-wow-delay="0.4s">
-                              <img src="images/team-image2.jpg" class="img-responsive" alt="">
+                              <img src="images/team-image2.jpeg" class="img-responsive" alt="">
                                    <div class="team-hover">
                                         <div class="team-item">
                                              <h4>Hii...</h4>
-                                             <ul class="social-icon">
-                                                  <li><a href="#" class="fa fa-instagram"></a></li>
-                                                  <li><a href="#" class="fa fa-flickr"></a></li>
-                                             </ul>
                                         </div>
                                    </div>
                          </div>
@@ -190,14 +182,10 @@
 
                     <div class="col-md-4 col-sm-4">
                          <div class="team-thumb wow fadeInUp" data-wow-delay="0.6s">
-                              <img src="images/team-image3.jpg" class="img-responsive" alt="">
+                              <img src="images/team-image3.jpeg" class="img-responsive" alt="">
                                    <div class="team-hover">
                                         <div class="team-item">
                                              <h4>Hallo</h4>
-                                             <ul class="social-icon">
-                                                  <li><a href="#" class="fa fa-instagram"></a></li>
-                                                  <li><a href="#" class="fa fa-envelope-o"></a></li>
-                                             </ul>
                                         </div>
                                    </div>
                          </div>
