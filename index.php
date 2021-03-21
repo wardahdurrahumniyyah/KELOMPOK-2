@@ -476,7 +476,7 @@
                          <div class="wow fadeInUp copyright-text" data-wow-delay="0.8s"> 
                               <p><br>Copyright &copy; 2021 <br>Dumnnycafe_Kelompok2
 
-                              <br><br>Design: <a rel="nofollow" target="_parent">Kelompok 2</a></p>
+                              <br><br><a rel="nofollow" target="_parent">Kelompok 2</a></p>
                          </div>
                     </div>
                     
