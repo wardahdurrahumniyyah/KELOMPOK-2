@@ -212,7 +212,6 @@
                     </div>
 
                     <div class="col-md-4 col-sm-6">
-                         <!-- MENU THUMB -->
                          <div class="menu-thumb">
                               <a href="images/menu-image1.jpg" class="image-popup" title="American Breakfast">
                                    <img src="images/menu-image1.jpg" class="img-responsive" alt="">
@@ -231,15 +230,13 @@
                     </div>
 
                     <div class="col-md-4 col-sm-6">
-
-                         <!-- MENU THUMB -->
                          <div class="menu-thumb">
                               <a href="images/menu-image2.jpg" class="image-popup" title="Self-made Salad">
                                    <img src="images/menu-image2.jpg" class="img-responsive" alt="">
 
                                    <div class="menu-info">
                                         <div class="menu-item">
-                                             <h3>Self-made Salad</h3>
+                                             <h3>Bread Salad</h3>
                                              <p>Green / Fruits / Healthy</p>
                                         </div>
                                         <div class="menu-price">
@@ -251,7 +248,6 @@
                     </div>
 
                     <div class="col-md-4 col-sm-6">
-                         <!-- MENU THUMB -->
                          <div class="menu-thumb">
                               <a href="images/menu-image3.jpg" class="image-popup" title="Chinese Noodle">
                                    <img src="images/menu-image3.jpg" class="img-responsive" alt="">
@@ -270,7 +266,6 @@
                     </div>
 
                     <div class="col-md-4 col-sm-6">
-                         <!-- MENU THUMB -->
                          <div class="menu-thumb">
                               <a href="images/menu-image4.jpg" class="image-popup" title="Rice Soup">
                                    <img src="images/menu-image4.jpg" class="img-responsive" alt="">
@@ -289,7 +284,6 @@
                     </div>
 
                     <div class="col-md-4 col-sm-6">
-                         <!-- MENU THUMB -->
                          <div class="menu-thumb">
                               <a href="images/menu-image5.jpg" class="image-popup" title="Project title">
                                    <img src="images/menu-image5.jpg" class="img-responsive" alt="">
@@ -308,7 +302,6 @@
                     </div>
 
                     <div class="col-md-4 col-sm-6">
-                         <!-- MENU THUMB -->
                          <div class="menu-thumb">
                               <a href="images/menu-image6.jpg" class="image-popup" title="Project title">
                                    <img src="images/menu-image6.jpg" class="img-responsive" alt="">
@@ -395,8 +388,8 @@
 
                          <!-- CONTACT FORM -->
                          <form action="#" method="post" class="wow fadeInUp" id="contact-form" role="form" data-wow-delay="0.8s">
-                              <h6 class="text-success">Your message has been sent successfully.</h6>
-                              <h6 class="text-danger">E-mail must be valid and message must be longer than 1 character.</h6>
+                              <h6 class="text-success">Pesan Anda telah berhasil dikirim.</h6>
+                              <h6 class="text-danger">E-mail harus valid dan pesan harus lebih dari 1 karakter.</h6>
                               <div class="col-md-6 col-sm-6">
                                    <input type="text" class="form-control" id="cf-name" name="name" placeholder="Full name">
                               </div>
